@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-![](https://morriq.dev/?1)
-
+[![](https://morriq.dev/)](https://morriq.dev/)
